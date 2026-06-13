@@ -1,3 +1,6 @@
+GitHub 링크:
+https://github.com/kyle7233/football-league-manager
+
 # football-league-manager
 
 # 축구 리그 승점 관리 프로그램
